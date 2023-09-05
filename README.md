@@ -1,48 +1,18 @@
-### Hi there 👋
+### Hello there!! 👋
 
-<img src="https://img.shields.io/"
+- 🔭 I’m currently working on FreeLancer.
+  
+- 🌱 I’m currently learning programming in python, html5, CSS, Java, PHP, R and JavaScript.
+  
+- 👯 I’m looking to collaborate on Tecnolochicas.
+  
+- 💬 Ask me about programming and Technology.
+  
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/cristina-fernanda-campos-salazar-672009227/)
+  
+- 😄 Pronouns: she/her
 
-<!--
-**Dangolaut/Dangolaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Markdown
-
-# Encabezado 1
-## Encabezado 2
-### Encabezado 3
-
-# Estilos de Texto
-**Palabra en negrita**
-
-*Palabra en cursiva*
-
-~~Este texto está equivocado~~
-
-Mi primera linea de código de python:
-```
-print('Hola Mundo')
-```
-
-###Listas
-
-- JavaScript
-* Python
-+ Goland
-
-El Markdown lo aprendi en [Tecnolochicas](https://tecnolochicas.mx/)
+- ⚡ Fun fact: I´m a Catlover.
 
 
 
